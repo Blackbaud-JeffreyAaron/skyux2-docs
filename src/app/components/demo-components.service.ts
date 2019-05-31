@@ -187,7 +187,7 @@ export class SkyDemoComponentsService {
         name: 'Date pipe',
         icon: 'calendar',
         summary: 'The date pipe pipe converts dates into the preferred format and locale.',
-        url: '/components/SkyDatePipe',
+        url: '/components/date-pipe',
         imports: {
           '@skyux/core': [
             'SkyNumericModule'
